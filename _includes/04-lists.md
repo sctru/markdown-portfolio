@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* alive
+* literate
+* approaching multilingual
+  * cantonese
+  * spanish
+  * ??
